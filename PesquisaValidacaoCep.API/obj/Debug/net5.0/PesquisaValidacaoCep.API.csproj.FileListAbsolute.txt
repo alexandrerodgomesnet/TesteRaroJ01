@@ -1,0 +1,66 @@
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.exe
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.deps.json
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.runtimeconfig.json
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.runtimeconfig.dev.json
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\ref\PesquisaValidacaoCep.API.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.pdb
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.AssemblyInfoInputs.cache
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.AssemblyInfo.cs
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\staticwebassets\PesquisaValidacaoCep.API.StaticWebAssets.Manifest.cache
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\staticwebassets\PesquisaValidacaoCep.API.StaticWebAssets.xml
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\scopedcss\bundle\PesquisaValidacaoCep.API.styles.css
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.RazorTargetAssemblyInfo.cache
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.csproj.CopyComplete
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\ref\PesquisaValidacaoCep.API.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.pdb
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.genruntimeconfig.cache
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\System.Net.Http.Extensions.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\bin\Debug\net5.0\System.Net.Http.Primitives.dll
+C:\Users\Henrique Cristofer\Desktop\RARO\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.csprojAssemblyReference.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\appsettings.json
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.exe
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.deps.json
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.runtimeconfig.json
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.runtimeconfig.dev.json
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\ref\PesquisaValidacaoCep.API.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\PesquisaValidacaoCep.API.pdb
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\System.Net.Http.Extensions.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\bin\Debug\net5.0\System.Net.Http.Primitives.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.csprojAssemblyReference.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.AssemblyInfoInputs.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.AssemblyInfo.cs
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.csproj.CoreCompileInputs.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\staticwebassets\PesquisaValidacaoCep.API.StaticWebAssets.Manifest.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\staticwebassets\PesquisaValidacaoCep.API.StaticWebAssets.xml
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\scopedcss\bundle\PesquisaValidacaoCep.API.styles.css
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.RazorTargetAssemblyInfo.cache
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.csproj.CopyComplete
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\ref\PesquisaValidacaoCep.API.dll
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.pdb
+C:\Teste\ApiConsultaViaCep\PesquisaValidacaoCep.API\obj\Debug\net5.0\PesquisaValidacaoCep.API.genruntimeconfig.cache
